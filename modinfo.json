@@ -5,14 +5,14 @@
     "description": "Replaces normal fog of war effect with a light cyan border.",
     "author": "dom314",
     "signature": " ",
-    "forum": "https://forums.uberent.com/threads/rel-client-more-pew-pew.69229/",
+    "forum": "https://forums.uberent.com/threads/rel-client-fog-of-war-lines.71671/",
     "icon": "http://i.imgur.com/fosb58G.png?1",
     "category": [
         "titans",
         "classic",
-        "effect"
+        "effects"
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "priority": 100,
     "build": "89755",
     "date": "2016/04/30"
