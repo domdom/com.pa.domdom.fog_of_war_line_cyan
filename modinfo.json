@@ -1,7 +1,7 @@
 {
     "context": "client",
     "identifier": "com.pa.domdom.fog_of_war_line_cyan",
-    "display_name": "Fog of War Lines",
+    "display_name": "Fog of War Lines Cyan",
     "description": "Replaces normal fog of war effect with a light cyan border.",
     "author": "dom314",
     "signature": " ",
@@ -12,8 +12,7 @@
         "classic",
         "effects"
     ],
-    "version": "1.0.1",
-    "priority": 100,
-    "build": "89755",
-    "date": "2016/04/30"
+    "version": "1.0.2",
+    "build": "94684",
+    "date": "2016/06/06"
 }
